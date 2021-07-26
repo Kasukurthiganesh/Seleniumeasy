@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [SeleniumEasy]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" parallel="classes" name="TC_SeleniumEasy(failed)">
+    <classes>
+      <class name="Selenium_Topics_TestCases.TC_SeleniumEasy_001">
+        <methods>
+          <include name="TearDown"/>
+          <include name="VerifySimpleFormDemo"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- Selenium_Topics_TestCases.TC_SeleniumEasy_001 -->
+      <class name="Selenium_Topics_TestCases.TC_SeleniumEasy_002">
+        <methods>
+          <include name="Checkbox_Demo"/>
+          <include name="TearDown"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- Selenium_Topics_TestCases.TC_SeleniumEasy_002 -->
+    </classes>
+  </test> <!-- TC_SeleniumEasy(failed) -->
+</suite> <!-- Failed suite [SeleniumEasy] -->

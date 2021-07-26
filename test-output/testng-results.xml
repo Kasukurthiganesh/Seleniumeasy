@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-25T20:59:35 IST" name="SeleniumEasy" finished-at="2021-07-25T21:01:01 IST" duration-ms="85070">
+    <groups>
+    </groups>
+    <test started-at="2021-07-25T20:59:35 IST" name="TC_SeleniumEasy" finished-at="2021-07-25T21:01:01 IST" duration-ms="85070">
+      <class name="Selenium_Topics_TestCases.TC_SeleniumEasy_002">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:Selenium_Topics_TestCases.TC_SeleniumEasy_002@301aa982]" started-at="2021-07-25T21:00:14 IST" name="Setup" finished-at="2021-07-25T21:00:25 IST" duration-ms="10959" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Checkbox_Demo()[pri:1, instance:Selenium_Topics_TestCases.TC_SeleniumEasy_002@301aa982]" started-at="2021-07-25T21:00:25 IST" name="Checkbox_Demo" description="verify Checkbox_Demo" finished-at="2021-07-25T21:00:34 IST" duration-ms="8880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkbox_Demo -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Selenium_Topics_TestCases.TC_SeleniumEasy_002@301aa982]" started-at="2021-07-25T21:00:34 IST" name="TearDown" finished-at="2021-07-25T21:00:35 IST" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Selenium_Topics_TestCases.TC_SeleniumEasy_002 -->
+      <class name="Selenium_Topics_TestCases.TC_SeleniumEasy_003">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:Selenium_Topics_TestCases.TC_SeleniumEasy_003@b965857]" started-at="2021-07-25T21:00:35 IST" name="Setup" finished-at="2021-07-25T21:00:57 IST" duration-ms="22044" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Radio_Button_Demo()[pri:1, instance:Selenium_Topics_TestCases.TC_SeleniumEasy_003@b965857]" started-at="2021-07-25T21:00:57 IST" name="Radio_Button_Demo" finished-at="2021-07-25T21:01:00 IST" duration-ms="3417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Radio_Button_Demo -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Selenium_Topics_TestCases.TC_SeleniumEasy_003@b965857]" started-at="2021-07-25T21:01:00 IST" name="TearDown" finished-at="2021-07-25T21:01:01 IST" duration-ms="480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Selenium_Topics_TestCases.TC_SeleniumEasy_003 -->
+      <class name="Selenium_Topics_TestCases.TC_SeleniumEasy_001">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:Selenium_Topics_TestCases.TC_SeleniumEasy_001@1e008f36]" started-at="2021-07-25T20:59:36 IST" name="Setup" finished-at="2021-07-25T21:00:07 IST" duration-ms="31403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifySimpleFormDemo()[pri:1, instance:Selenium_Topics_TestCases.TC_SeleniumEasy_001@1e008f36]" started-at="2021-07-25T21:00:07 IST" name="VerifySimpleFormDemo" description="Verify SimpleFormDemo" finished-at="2021-07-25T21:00:13 IST" duration-ms="6154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySimpleFormDemo -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Selenium_Topics_TestCases.TC_SeleniumEasy_001@1e008f36]" started-at="2021-07-25T21:00:14 IST" name="TearDown" finished-at="2021-07-25T21:00:14 IST" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Selenium_Topics_TestCases.TC_SeleniumEasy_001 -->
+    </test> <!-- TC_SeleniumEasy -->
+  </suite> <!-- SeleniumEasy -->
+</testng-results>
