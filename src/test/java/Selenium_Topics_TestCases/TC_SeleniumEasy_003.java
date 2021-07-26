@@ -2,6 +2,7 @@ package Selenium_Topics_TestCases;
 
 import java.io.IOException;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import Selenium_Toipcs_PageObject.Radio_Button_Demo_Page;
@@ -71,6 +72,7 @@ String text2=rb.check_message2();                   logger.info("check_message2;
 	 capturescreen(driver, "TC_SeleniumEasy_003");
 		System.out.println("The Message is Not Display the message is "+text3);
 		logger.info("The Message is Not Display"); 
+		//Assert.assertTrue(false);
  }
  if(text4.equals("Sex : Female\r\n"
  		+ "Age group: 15 - 50"))

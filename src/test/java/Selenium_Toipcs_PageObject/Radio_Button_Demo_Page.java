@@ -14,12 +14,6 @@ public class Radio_Button_Demo_Page {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);	
 	}
-	
-	
-	
-	
-	
-	
 	@FindBy(how=How.XPATH,using="//*[@id=\"navbar-brand-centered\"]/ul[1]/li[1]/a")
 	@CacheLookup
 	WebElement inputForms;

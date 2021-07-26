@@ -207,3 +207,378 @@
 2021-07-25 23:10:24,469 - Selenium easy -INFO - The Message is Successfull Displayed
 2021-07-25 23:10:24,685 - Selenium easy -INFO - The Message is Successfull Displayed
 2021-07-25 23:10:24,918 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 12:59:02,011 - Selenium easy -INFO - popups is diabled
+2021-07-26 12:59:02,435 - Selenium easy -INFO - inputForms is clicked
+2021-07-26 12:59:04,122 - Selenium easy -INFO - simple form is clicked
+2021-07-26 12:59:04,486 - Selenium easy -INFO - message is enter in enter box
+2021-07-26 12:59:04,642 - Selenium easy -INFO - clicked on show message
+2021-07-26 12:59:04,785 - Selenium easy -INFO - your message is verifed
+2021-07-26 12:59:05,007 - Selenium easy -INFO - number is added
+2021-07-26 12:59:05,269 - Selenium easy -INFO - number2 is added
+2021-07-26 12:59:05,405 - Selenium easy -INFO - get total button clicked
+2021-07-26 12:59:05,467 - Selenium easy -INFO - sum is showed
+2021-07-26 12:59:05,611 - Selenium easy -INFO - logo is displayed
+2021-07-26 12:59:05,866 - Selenium easy -INFO - Message is Matched
+2021-07-26 12:59:06,080 - Selenium easy -INFO - sum is valid
+2021-07-26 12:59:45,402 - Selenium easy -INFO - popups is diabled
+2021-07-26 12:59:45,500 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 13:00:16,476 - Selenium easy -INFO - CheckBox_Demo
+2021-07-26 13:00:16,627 - Selenium easy -INFO - Checkbox_clicked
+2021-07-26 13:00:16,705 - Selenium easy -INFO - Text_Message_displayed
+2021-07-26 13:00:16,823 - Selenium easy -INFO - check_all_button_clicked
+2021-07-26 13:00:16,918 - Selenium easy -INFO - option4 clicked
+2021-07-26 13:00:20,067 - Selenium easy -INFO - option3 clicked
+2021-07-26 13:00:20,169 - Selenium easy -INFO - option2 clicked
+2021-07-26 13:00:23,366 - Selenium easy -INFO - option1 clicked
+2021-07-26 13:00:23,640 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 13:01:01,958 - Selenium easy -INFO - popups is diabled
+2021-07-26 13:01:02,063 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 13:01:08,320 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 13:01:08,381 - Selenium easy -INFO - check_message
+2021-07-26 13:01:08,552 - Selenium easy -INFO - click_on_female);
+2021-07-26 13:01:08,601 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 13:01:08,648 - Selenium easy -INFO - check_message2;
+2021-07-26 13:01:08,748 - Selenium easy -INFO - click_on_Get_Values; 
+2021-07-26 13:01:08,798 - Selenium easy -INFO - Message_check;
+2021-07-26 13:01:08,897 - Selenium easy -INFO - click_on_Sex_male_button;
+2021-07-26 13:01:09,004 - Selenium easy -INFO - click_on_age_button;
+2021-07-26 13:01:09,067 - Selenium easy -INFO - click_on_Get_Values;
+2021-07-26 13:01:09,085 - Selenium easy -INFO - Message_check;
+2021-07-26 13:01:09,431 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 13:01:09,623 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 13:01:09,831 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 13:01:10,025 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 13:04:16,443 - Selenium easy -INFO - popups is diabled
+2021-07-26 13:04:16,602 - Selenium easy -INFO - inputForms is clicked
+2021-07-26 13:04:18,403 - Selenium easy -INFO - simple form is clicked
+2021-07-26 13:04:18,714 - Selenium easy -INFO - message is enter in enter box
+2021-07-26 13:04:18,869 - Selenium easy -INFO - clicked on show message
+2021-07-26 13:04:18,941 - Selenium easy -INFO - your message is verifed
+2021-07-26 13:04:19,201 - Selenium easy -INFO - number is added
+2021-07-26 13:04:19,352 - Selenium easy -INFO - number2 is added
+2021-07-26 13:04:19,481 - Selenium easy -INFO - get total button clicked
+2021-07-26 13:04:19,547 - Selenium easy -INFO - sum is showed
+2021-07-26 13:04:19,678 - Selenium easy -INFO - logo is displayed
+2021-07-26 13:04:19,929 - Selenium easy -INFO - Message is Matched
+2021-07-26 13:04:20,120 - Selenium easy -INFO - sum is valid
+2021-07-26 13:04:33,823 - Selenium easy -INFO - popups is diabled
+2021-07-26 13:04:33,939 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 13:04:35,013 - Selenium easy -INFO - CheckBox_Demo
+2021-07-26 13:04:35,150 - Selenium easy -INFO - Checkbox_clicked
+2021-07-26 13:04:35,212 - Selenium easy -INFO - Text_Message_displayed
+2021-07-26 13:04:35,333 - Selenium easy -INFO - check_all_button_clicked
+2021-07-26 13:04:35,444 - Selenium easy -INFO - option4 clicked
+2021-07-26 13:04:38,653 - Selenium easy -INFO - option3 clicked
+2021-07-26 13:04:38,841 - Selenium easy -INFO - option2 clicked
+2021-07-26 13:04:42,050 - Selenium easy -INFO - option1 clicked
+2021-07-26 13:04:42,408 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 13:05:22,434 - Selenium easy -INFO - popups is diabled
+2021-07-26 13:05:22,528 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 13:05:25,385 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 13:05:25,439 - Selenium easy -INFO - check_message
+2021-07-26 13:05:25,555 - Selenium easy -INFO - click_on_female);
+2021-07-26 13:05:25,597 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 13:05:25,635 - Selenium easy -INFO - check_message2;
+2021-07-26 13:05:25,749 - Selenium easy -INFO - click_on_Get_Values; 
+2021-07-26 13:05:25,796 - Selenium easy -INFO - Message_check;
+2021-07-26 13:05:25,883 - Selenium easy -INFO - click_on_Sex_male_button;
+2021-07-26 13:05:25,978 - Selenium easy -INFO - click_on_age_button;
+2021-07-26 13:05:26,033 - Selenium easy -INFO - click_on_Get_Values;
+2021-07-26 13:05:26,047 - Selenium easy -INFO - Message_check;
+2021-07-26 13:05:26,267 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 13:05:26,470 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 13:05:26,715 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 13:05:26,883 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 13:05:40,485 - Selenium easy -INFO - popups is disabled
+2021-07-26 13:05:40,609 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 13:05:41,739 - Selenium easy -INFO - click_on_Select_DropDown_List
+2021-07-26 13:05:41,905 - Selenium easy -INFO - click_on_please_select_button
+2021-07-26 13:05:42,021 - Selenium easy -INFO - select_monday_button
+2021-07-26 13:05:42,092 - Selenium easy -INFO - check_message
+2021-07-26 13:05:42,449 - Selenium easy -INFO - click_on_new_York_Button
+2021-07-26 13:05:45,550 - Selenium easy -INFO - click_on_First_selected
+2021-07-26 13:05:45,602 - Selenium easy -INFO - check_message2
+2021-07-26 13:05:48,778 - Selenium easy -INFO - click_on_Texas_button
+2021-07-26 13:05:48,896 - Selenium easy -INFO - click_on_GetAll_Selected_Button
+2021-07-26 13:05:48,946 - Selenium easy -INFO - options_selected_is_displayed
+2021-07-26 13:05:49,230 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 13:05:49,591 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 13:05:49,811 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:32:03,773 - Selenium easy -INFO - popups is diabled
+2021-07-26 15:32:03,959 - Selenium easy -INFO - inputForms is clicked
+2021-07-26 15:32:05,580 - Selenium easy -INFO - simple form is clicked
+2021-07-26 15:32:05,979 - Selenium easy -INFO - message is enter in enter box
+2021-07-26 15:32:06,155 - Selenium easy -INFO - clicked on show message
+2021-07-26 15:32:06,332 - Selenium easy -INFO - your message is verifed
+2021-07-26 15:32:06,544 - Selenium easy -INFO - number is added
+2021-07-26 15:32:06,757 - Selenium easy -INFO - number2 is added
+2021-07-26 15:32:06,906 - Selenium easy -INFO - get total button clicked
+2021-07-26 15:32:06,977 - Selenium easy -INFO - sum is showed
+2021-07-26 15:32:07,117 - Selenium easy -INFO - logo is displayed
+2021-07-26 15:32:07,447 - Selenium easy -INFO - Message is Matched
+2021-07-26 15:32:07,641 - Selenium easy -INFO - sum is valid
+2021-07-26 15:32:18,382 - Selenium easy -INFO - popups is diabled
+2021-07-26 15:32:18,498 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 15:32:19,460 - Selenium easy -INFO - CheckBox_Demo
+2021-07-26 15:32:19,604 - Selenium easy -INFO - Checkbox_clicked
+2021-07-26 15:32:19,659 - Selenium easy -INFO - Text_Message_displayed
+2021-07-26 15:32:19,772 - Selenium easy -INFO - check_all_button_clicked
+2021-07-26 15:32:19,873 - Selenium easy -INFO - option4 clicked
+2021-07-26 15:32:23,077 - Selenium easy -INFO - option3 clicked
+2021-07-26 15:32:23,223 - Selenium easy -INFO - option2 clicked
+2021-07-26 15:32:26,434 - Selenium easy -INFO - option1 clicked
+2021-07-26 15:32:26,912 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:32:36,090 - Selenium easy -INFO - popups is diabled
+2021-07-26 15:32:36,243 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 15:32:37,125 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 15:32:37,182 - Selenium easy -INFO - check_message
+2021-07-26 15:32:37,357 - Selenium easy -INFO - click_on_female);
+2021-07-26 15:32:37,409 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 15:32:37,451 - Selenium easy -INFO - check_message2;
+2021-07-26 15:32:37,550 - Selenium easy -INFO - click_on_Get_Values; 
+2021-07-26 15:32:37,601 - Selenium easy -INFO - Message_check;
+2021-07-26 15:32:37,692 - Selenium easy -INFO - click_on_Sex_male_button;
+2021-07-26 15:32:37,795 - Selenium easy -INFO - click_on_age_button;
+2021-07-26 15:32:37,855 - Selenium easy -INFO - click_on_Get_Values;
+2021-07-26 15:32:37,872 - Selenium easy -INFO - Message_check;
+2021-07-26 15:32:38,070 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:32:38,282 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:32:38,462 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 15:32:38,668 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 15:32:50,480 - Selenium easy -INFO - popups is disabled
+2021-07-26 15:32:50,600 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 15:32:51,574 - Selenium easy -INFO - click_on_Select_DropDown_List
+2021-07-26 15:32:51,746 - Selenium easy -INFO - click_on_please_select_button
+2021-07-26 15:32:51,852 - Selenium easy -INFO - select_monday_button
+2021-07-26 15:32:51,916 - Selenium easy -INFO - check_message
+2021-07-26 15:32:52,156 - Selenium easy -INFO - click_on_new_York_Button
+2021-07-26 15:32:55,287 - Selenium easy -INFO - click_on_First_selected
+2021-07-26 15:32:55,339 - Selenium easy -INFO - check_message2
+2021-07-26 15:32:58,514 - Selenium easy -INFO - click_on_Texas_button
+2021-07-26 15:32:58,697 - Selenium easy -INFO - click_on_GetAll_Selected_Button
+2021-07-26 15:32:58,776 - Selenium easy -INFO - options_selected_is_displayed
+2021-07-26 15:32:59,013 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:32:59,247 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:32:59,465 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:46:33,813 - Selenium easy -INFO - popups is diabled
+2021-07-26 15:46:33,927 - Selenium easy -INFO - inputForms is clicked
+2021-07-26 15:46:35,215 - Selenium easy -INFO - simple form is clicked
+2021-07-26 15:46:35,536 - Selenium easy -INFO - message is enter in enter box
+2021-07-26 15:46:35,708 - Selenium easy -INFO - clicked on show message
+2021-07-26 15:46:35,783 - Selenium easy -INFO - your message is verifed
+2021-07-26 15:46:36,028 - Selenium easy -INFO - number is added
+2021-07-26 15:46:36,202 - Selenium easy -INFO - number2 is added
+2021-07-26 15:46:36,338 - Selenium easy -INFO - get total button clicked
+2021-07-26 15:46:36,415 - Selenium easy -INFO - sum is showed
+2021-07-26 15:46:36,555 - Selenium easy -INFO - logo is displayed
+2021-07-26 15:46:36,794 - Selenium easy -INFO - Message is Matched
+2021-07-26 15:46:36,985 - Selenium easy -INFO - sum is valid
+2021-07-26 15:46:48,380 - Selenium easy -INFO - popups is diabled
+2021-07-26 15:46:48,559 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 15:46:49,689 - Selenium easy -INFO - CheckBox_Demo
+2021-07-26 15:46:49,824 - Selenium easy -INFO - Checkbox_clicked
+2021-07-26 15:46:49,894 - Selenium easy -INFO - Text_Message_displayed
+2021-07-26 15:46:50,026 - Selenium easy -INFO - check_all_button_clicked
+2021-07-26 15:46:50,143 - Selenium easy -INFO - option4 clicked
+2021-07-26 15:46:53,272 - Selenium easy -INFO - option3 clicked
+2021-07-26 15:46:53,376 - Selenium easy -INFO - option2 clicked
+2021-07-26 15:46:56,573 - Selenium easy -INFO - option1 clicked
+2021-07-26 15:46:56,905 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:47:07,485 - Selenium easy -INFO - popups is diabled
+2021-07-26 15:47:07,664 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 15:47:08,553 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 15:47:08,609 - Selenium easy -INFO - check_message
+2021-07-26 15:47:08,727 - Selenium easy -INFO - click_on_female);
+2021-07-26 15:47:08,774 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 15:47:08,825 - Selenium easy -INFO - check_message2;
+2021-07-26 15:47:08,940 - Selenium easy -INFO - click_on_Get_Values; 
+2021-07-26 15:47:09,015 - Selenium easy -INFO - Message_check;
+2021-07-26 15:47:09,151 - Selenium easy -INFO - click_on_Sex_male_button;
+2021-07-26 15:47:09,268 - Selenium easy -INFO - click_on_age_button;
+2021-07-26 15:47:09,332 - Selenium easy -INFO - click_on_Get_Values;
+2021-07-26 15:47:09,347 - Selenium easy -INFO - Message_check;
+2021-07-26 15:47:09,557 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:47:09,775 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:47:09,994 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 15:47:20,986 - Selenium easy -INFO - popups is disabled
+2021-07-26 15:47:21,102 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 15:47:22,005 - Selenium easy -INFO - click_on_Select_DropDown_List
+2021-07-26 15:47:22,183 - Selenium easy -INFO - click_on_please_select_button
+2021-07-26 15:47:22,333 - Selenium easy -INFO - select_monday_button
+2021-07-26 15:47:22,412 - Selenium easy -INFO - check_message
+2021-07-26 15:47:22,603 - Selenium easy -INFO - click_on_new_York_Button
+2021-07-26 15:47:25,758 - Selenium easy -INFO - click_on_First_selected
+2021-07-26 15:47:25,835 - Selenium easy -INFO - check_message2
+2021-07-26 15:47:29,021 - Selenium easy -INFO - click_on_Texas_button
+2021-07-26 15:47:29,213 - Selenium easy -INFO - click_on_GetAll_Selected_Button
+2021-07-26 15:47:29,299 - Selenium easy -INFO - options_selected_is_displayed
+2021-07-26 15:47:29,559 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:47:29,744 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 15:47:30,033 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 16:26:45,926 - Selenium easy -INFO - popups is diabled
+2021-07-26 16:26:46,110 - Selenium easy -INFO - inputForms is clicked
+2021-07-26 16:26:47,624 - Selenium easy -INFO - simple form is clicked
+2021-07-26 16:26:47,935 - Selenium easy -INFO - message is enter in enter box
+2021-07-26 16:26:48,118 - Selenium easy -INFO - clicked on show message
+2021-07-26 16:26:48,264 - Selenium easy -INFO - your message is verifed
+2021-07-26 16:26:48,448 - Selenium easy -INFO - number is added
+2021-07-26 16:26:48,663 - Selenium easy -INFO - number2 is added
+2021-07-26 16:26:48,804 - Selenium easy -INFO - get total button clicked
+2021-07-26 16:26:48,858 - Selenium easy -INFO - sum is showed
+2021-07-26 16:26:48,978 - Selenium easy -INFO - logo is displayed
+2021-07-26 16:26:49,203 - Selenium easy -INFO - Message is Matched
+2021-07-26 16:26:49,428 - Selenium easy -INFO - sum is valid
+2021-07-26 16:26:58,819 - Selenium easy -INFO - popups is diabled
+2021-07-26 16:26:58,937 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 16:27:00,055 - Selenium easy -INFO - CheckBox_Demo
+2021-07-26 16:27:00,183 - Selenium easy -INFO - Checkbox_clicked
+2021-07-26 16:27:00,250 - Selenium easy -INFO - Text_Message_displayed
+2021-07-26 16:27:00,378 - Selenium easy -INFO - check_all_button_clicked
+2021-07-26 16:27:00,491 - Selenium easy -INFO - option4 clicked
+2021-07-26 16:27:03,677 - Selenium easy -INFO - option3 clicked
+2021-07-26 16:27:03,800 - Selenium easy -INFO - option2 clicked
+2021-07-26 16:27:06,971 - Selenium easy -INFO - option1 clicked
+2021-07-26 16:27:07,253 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 16:27:18,037 - Selenium easy -INFO - popups is diabled
+2021-07-26 16:27:18,175 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 16:27:19,163 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 16:27:19,219 - Selenium easy -INFO - check_message
+2021-07-26 16:27:19,335 - Selenium easy -INFO - click_on_female);
+2021-07-26 16:27:19,387 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 16:27:19,429 - Selenium easy -INFO - check_message2;
+2021-07-26 16:27:19,538 - Selenium easy -INFO - click_on_Get_Values; 
+2021-07-26 16:27:19,589 - Selenium easy -INFO - Message_check;
+2021-07-26 16:27:19,690 - Selenium easy -INFO - click_on_Sex_male_button;
+2021-07-26 16:27:19,804 - Selenium easy -INFO - click_on_age_button;
+2021-07-26 16:27:19,868 - Selenium easy -INFO - click_on_Get_Values;
+2021-07-26 16:27:19,885 - Selenium easy -INFO - Message_check;
+2021-07-26 16:27:20,094 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 16:27:20,293 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 16:27:20,507 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 16:27:37,264 - Selenium easy -INFO - popups is disabled
+2021-07-26 16:27:37,395 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 16:27:39,155 - Selenium easy -INFO - click_on_Select_DropDown_List
+2021-07-26 16:27:39,305 - Selenium easy -INFO - click_on_please_select_button
+2021-07-26 16:27:39,401 - Selenium easy -INFO - select_monday_button
+2021-07-26 16:27:39,469 - Selenium easy -INFO - check_message
+2021-07-26 16:27:39,833 - Selenium easy -INFO - click_on_new_York_Button
+2021-07-26 16:27:43,036 - Selenium easy -INFO - click_on_First_selected
+2021-07-26 16:27:43,107 - Selenium easy -INFO - check_message2
+2021-07-26 16:27:46,298 - Selenium easy -INFO - click_on_Texas_button
+2021-07-26 16:27:46,494 - Selenium easy -INFO - click_on_GetAll_Selected_Button
+2021-07-26 16:27:46,584 - Selenium easy -INFO - options_selected_is_displayed
+2021-07-26 16:27:46,960 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 16:27:47,164 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 16:27:47,329 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:27:07,975 - Selenium easy -INFO - popups is diabled
+2021-07-26 18:27:08,109 - Selenium easy -INFO - inputForms is clicked
+2021-07-26 18:27:09,443 - Selenium easy -INFO - simple form is clicked
+2021-07-26 18:27:09,755 - Selenium easy -INFO - message is enter in enter box
+2021-07-26 18:27:09,900 - Selenium easy -INFO - clicked on show message
+2021-07-26 18:27:09,981 - Selenium easy -INFO - your message is verifed
+2021-07-26 18:27:10,260 - Selenium easy -INFO - number is added
+2021-07-26 18:27:10,424 - Selenium easy -INFO - number2 is added
+2021-07-26 18:27:10,537 - Selenium easy -INFO - get total button clicked
+2021-07-26 18:27:10,598 - Selenium easy -INFO - sum is showed
+2021-07-26 18:27:10,717 - Selenium easy -INFO - logo is displayed
+2021-07-26 18:27:10,944 - Selenium easy -INFO - Message is Matched
+2021-07-26 18:27:11,156 - Selenium easy -INFO - sum is valid
+2021-07-26 18:27:19,918 - Selenium easy -INFO - popups is diabled
+2021-07-26 18:27:20,073 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 18:27:21,159 - Selenium easy -INFO - CheckBox_Demo
+2021-07-26 18:27:21,289 - Selenium easy -INFO - Checkbox_clicked
+2021-07-26 18:27:21,339 - Selenium easy -INFO - Text_Message_displayed
+2021-07-26 18:27:21,448 - Selenium easy -INFO - check_all_button_clicked
+2021-07-26 18:27:21,560 - Selenium easy -INFO - option4 clicked
+2021-07-26 18:27:24,674 - Selenium easy -INFO - option3 clicked
+2021-07-26 18:27:24,767 - Selenium easy -INFO - option2 clicked
+2021-07-26 18:27:27,951 - Selenium easy -INFO - option1 clicked
+2021-07-26 18:27:28,146 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:27:36,301 - Selenium easy -INFO - popups is diabled
+2021-07-26 18:27:36,452 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 18:27:37,358 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 18:27:37,417 - Selenium easy -INFO - check_message
+2021-07-26 18:27:37,530 - Selenium easy -INFO - click_on_female);
+2021-07-26 18:27:37,580 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 18:27:37,628 - Selenium easy -INFO - check_message2;
+2021-07-26 18:27:37,735 - Selenium easy -INFO - click_on_Get_Values; 
+2021-07-26 18:27:37,786 - Selenium easy -INFO - Message_check;
+2021-07-26 18:27:37,877 - Selenium easy -INFO - click_on_Sex_male_button;
+2021-07-26 18:27:37,985 - Selenium easy -INFO - click_on_age_button;
+2021-07-26 18:27:38,043 - Selenium easy -INFO - click_on_Get_Values;
+2021-07-26 18:27:38,059 - Selenium easy -INFO - Message_check;
+2021-07-26 18:27:38,286 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:27:38,486 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:27:38,680 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 18:27:38,894 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 18:27:49,961 - Selenium easy -INFO - popups is disabled
+2021-07-26 18:27:50,085 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 18:27:51,215 - Selenium easy -INFO - click_on_Select_DropDown_List
+2021-07-26 18:27:51,402 - Selenium easy -INFO - click_on_please_select_button
+2021-07-26 18:27:51,517 - Selenium easy -INFO - select_monday_button
+2021-07-26 18:27:51,591 - Selenium easy -INFO - check_message
+2021-07-26 18:27:51,859 - Selenium easy -INFO - click_on_new_York_Button
+2021-07-26 18:27:55,001 - Selenium easy -INFO - click_on_First_selected
+2021-07-26 18:27:55,059 - Selenium easy -INFO - check_message2
+2021-07-26 18:27:58,176 - Selenium easy -INFO - click_on_Texas_button
+2021-07-26 18:27:58,257 - Selenium easy -INFO - click_on_GetAll_Selected_Button
+2021-07-26 18:27:58,292 - Selenium easy -INFO - options_selected_is_displayed
+2021-07-26 18:27:58,497 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:27:58,642 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:27:58,836 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:35:41,539 - Selenium easy -INFO - popups is diabled
+2021-07-26 18:35:41,684 - Selenium easy -INFO - inputForms is clicked
+2021-07-26 18:35:43,247 - Selenium easy -INFO - simple form is clicked
+2021-07-26 18:35:43,536 - Selenium easy -INFO - message is enter in enter box
+2021-07-26 18:35:43,729 - Selenium easy -INFO - clicked on show message
+2021-07-26 18:35:43,810 - Selenium easy -INFO - your message is verifed
+2021-07-26 18:35:44,064 - Selenium easy -INFO - number is added
+2021-07-26 18:35:44,252 - Selenium easy -INFO - number2 is added
+2021-07-26 18:35:44,397 - Selenium easy -INFO - get total button clicked
+2021-07-26 18:35:44,476 - Selenium easy -INFO - sum is showed
+2021-07-26 18:35:44,659 - Selenium easy -INFO - logo is displayed
+2021-07-26 18:35:44,958 - Selenium easy -INFO - Message is Matched
+2021-07-26 18:35:45,237 - Selenium easy -INFO - sum is valid
+2021-07-26 18:35:57,265 - Selenium easy -INFO - popups is diabled
+2021-07-26 18:35:57,403 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 18:35:59,237 - Selenium easy -INFO - CheckBox_Demo
+2021-07-26 18:35:59,369 - Selenium easy -INFO - Checkbox_clicked
+2021-07-26 18:35:59,428 - Selenium easy -INFO - Text_Message_displayed
+2021-07-26 18:35:59,573 - Selenium easy -INFO - check_all_button_clicked
+2021-07-26 18:35:59,690 - Selenium easy -INFO - option4 clicked
+2021-07-26 18:36:02,813 - Selenium easy -INFO - option3 clicked
+2021-07-26 18:36:02,902 - Selenium easy -INFO - option2 clicked
+2021-07-26 18:36:06,032 - Selenium easy -INFO - option1 clicked
+2021-07-26 18:36:06,228 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:36:14,767 - Selenium easy -INFO - popups is diabled
+2021-07-26 18:36:14,931 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 18:36:16,179 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 18:36:16,249 - Selenium easy -INFO - check_message
+2021-07-26 18:36:16,394 - Selenium easy -INFO - click_on_female);
+2021-07-26 18:36:16,462 - Selenium easy -INFO - Get_Checked_Value
+2021-07-26 18:36:16,507 - Selenium easy -INFO - check_message2;
+2021-07-26 18:36:16,610 - Selenium easy -INFO - click_on_Get_Values; 
+2021-07-26 18:36:16,664 - Selenium easy -INFO - Message_check;
+2021-07-26 18:36:16,760 - Selenium easy -INFO - click_on_Sex_male_button;
+2021-07-26 18:36:16,867 - Selenium easy -INFO - click_on_age_button;
+2021-07-26 18:36:16,929 - Selenium easy -INFO - click_on_Get_Values;
+2021-07-26 18:36:16,945 - Selenium easy -INFO - Message_check;
+2021-07-26 18:36:17,184 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:36:17,389 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:36:17,582 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 18:36:17,797 - Selenium easy -INFO - The Message is Not Display
+2021-07-26 18:36:31,053 - Selenium easy -INFO - popups is disabled
+2021-07-26 18:36:31,187 - Selenium easy -INFO - input_Forms is clicked
+2021-07-26 18:36:32,508 - Selenium easy -INFO - click_on_Select_DropDown_List
+2021-07-26 18:36:32,734 - Selenium easy -INFO - click_on_please_select_button
+2021-07-26 18:36:32,869 - Selenium easy -INFO - select_monday_button
+2021-07-26 18:36:32,930 - Selenium easy -INFO - check_message
+2021-07-26 18:36:33,241 - Selenium easy -INFO - click_on_new_York_Button
+2021-07-26 18:36:36,377 - Selenium easy -INFO - click_on_First_selected
+2021-07-26 18:36:36,429 - Selenium easy -INFO - check_message2
+2021-07-26 18:36:39,544 - Selenium easy -INFO - click_on_Texas_button
+2021-07-26 18:36:39,626 - Selenium easy -INFO - click_on_GetAll_Selected_Button
+2021-07-26 18:36:39,665 - Selenium easy -INFO - options_selected_is_displayed
+2021-07-26 18:36:39,846 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:36:40,009 - Selenium easy -INFO - The Message is Successfull Displayed
+2021-07-26 18:36:40,187 - Selenium easy -INFO - The Message is Successfull Displayed
